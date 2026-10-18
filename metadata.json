@@ -1,0 +1,8 @@
+{
+  "name": "Saber - Handwriting Notes App",
+  "description": "A privacy-focused handwriting notes app featuring invert-in-dark-mode, smooth pen and highlighter with blend modes, nested folders, multi-page notes, and export.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
